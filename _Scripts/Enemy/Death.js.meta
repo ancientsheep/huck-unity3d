@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1b27c1d567ba74ddba7f2a4db225561d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathSound: {instanceID: 0}
+  - deathAnimation: {instanceID: 0}
+  - heart: {fileID: 100000, guid: 2b8af649e9f694c5182419e22ba5f350, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

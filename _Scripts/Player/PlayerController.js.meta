@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37f738fbcf75c48f093bf54eba07e89d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projStandard: {fileID: 100008, guid: bff82c80b349540babd452a5fd7d8332, type: 2}
+  - projGrenade: {instanceID: 0}
+  - projRocket: {instanceID: 0}
+  - projShotgun: {instanceID: 0}
+  - projExplosion: {instanceID: 0}
+  - leftJoystick: {instanceID: 0}
+  - rightJoystick: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
